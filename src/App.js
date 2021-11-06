@@ -52,7 +52,7 @@ function App() {
           <Route path="/login">
             <Login />
           </Route>
-          <Route path="/checkout">
+          <Route path="/checkoutt">
             <Header />
             <Checkout />
           </Route>
