@@ -49,7 +49,7 @@ function App() {
             <Header />
             <Orders />
           </Route>
-          <Route path="/logins">
+          <Route path="/login">
             <Login />
           </Route>
           <Route path="/checkout">
