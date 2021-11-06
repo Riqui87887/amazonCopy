@@ -12,7 +12,7 @@ function Home() {
           alt=""
         />
 
-        <div className="home__row">
+        <div className="home__roww">
           <Product
             id="12321341"
             title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
