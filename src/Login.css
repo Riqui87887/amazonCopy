@@ -41,7 +41,7 @@
     width: 98%;
   }
 
-/* .login__container > p {
+.login__container > p {
     margin-top: 15px;
     font-size: 12px;
 }
@@ -54,7 +54,7 @@
     border: 1px solid;
     margin-top: 10px;
     border-color: #a88734 #9c7e31 #846a29;
-  } */
+  }
 
   .login__registerButton {
     border-radius: 2px;
