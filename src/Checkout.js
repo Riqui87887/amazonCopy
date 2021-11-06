@@ -33,7 +33,7 @@ function Checkout() {
         </div>
       </div>
 
-      <div className="checkout__right">
+      <div className="checkout__rights">
         <Subtotal />
       </div>
     </div>
