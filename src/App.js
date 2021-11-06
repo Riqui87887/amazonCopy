@@ -28,7 +28,7 @@ function App() {
         // the user just logged in / the user was logged in
 
         dispatch({
-          type: "SET_USER",
+          type: "SET_USERs",
           user: authUser,
         });
       } else {
